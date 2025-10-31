@@ -1,5 +1,3 @@
-This i have made for practice and timepass.
+Python practice and learnings.
 <br>
-If u like it just copy and play and modify.
-<br>
-Author:- Amogh.k
+You can copy paste in ur IDE and run to play.
